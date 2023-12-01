@@ -1,0 +1,16 @@
+{
+  "ylc":[
+    {
+      "last_updated": "1 Dec 2023 - 6.12pm"
+      "power": "on"
+      "last_trade": "XXXXX"
+    },
+    {
+      "open_tex_choice": "1"
+      "autosell_choice": "1"
+    },
+    {
+      "refresh_start_time": "60",
+      "refresh_start_end": "90",
+    }
+    }
